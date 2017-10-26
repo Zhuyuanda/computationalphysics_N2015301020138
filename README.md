@@ -8,3 +8,5 @@ exercise03 https://www.zybuluo.com/synapse/note/901311
 exercise04 https://www.zybuluo.com/synapse/note/913108
 
 exercise05 https://www.zybuluo.com/synapse/note/921196
+
+exercise06 https://www.zybuluo.com/synapse/note/929198
