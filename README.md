@@ -12,3 +12,5 @@ exercise05 https://www.zybuluo.com/synapse/note/921196
 exercise06 https://www.zybuluo.com/synapse/note/929198
 
 exercise07 https://www.zybuluo.com/synapse/note/938997
+
+Mid-term work https://www.zybuluo.com/synapse/note/945552
