@@ -18,3 +18,5 @@ Mid-term work https://www.zybuluo.com/synapse/note/945552
 exercise08 https://www.zybuluo.com/synapse/note/946084
 
 exercise09 https://www.zybuluo.com/synapse/note/971281
+
+exercise10 https://www.zybuluo.com/synapse/note/979521
